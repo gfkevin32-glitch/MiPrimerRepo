@@ -2,4 +2,6 @@
 mi primer repositorio
 
 
-mi primera contribucion local para Github
+mi primera contribucion local para GitHub 
+
+ptm
