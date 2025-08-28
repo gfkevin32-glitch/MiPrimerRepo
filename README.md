@@ -31,4 +31,5 @@ print(isPrime(2)) # True
 print(isPrime(7)) # True
 print(isPrime(60))
 
-//verifica si es primo
+//verifica si es primo 
+hola
