@@ -21,8 +21,7 @@ rama main.
 
 //
 
-<<<<<<< HEAD
-=======
+
 
 >>>>>>> 8673fe0aa60ae01b43d4d2b4fc81c392ee6ecfd6
 def isPrime(n):
@@ -35,10 +34,10 @@ print(isPrime(2)) # True
 print(isPrime(7)) # True
 print(isPrime(60))
 
-<<<<<<< HEAD
+
 //verifica si es primo 
 hola
-=======
+
 //verifica si es primo
 
->>>>>>> 8673fe0aa60ae01b43d4d2b4fc81c392ee6ecfd6
+
