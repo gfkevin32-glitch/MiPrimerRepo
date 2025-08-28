@@ -40,4 +40,9 @@ hola
 
 //verifica si es primo
 
+nombre = input("cual es tu nombre)
+edad = int(input("cuantos años tienes"))
+
+print("Biencenido ", nombre "tu edad es ", edad )
+
 
