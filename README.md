@@ -1,15 +1,16 @@
 # MiPrimerRepo
+
 mi primer repositorio
 
-mi primera contribucion local para GitHub 
+mi primera contribucion local para GitHub
 
-hola ya quedo 
+hola ya quedo
 
 un commit mas desde GitHub
 
-una actualizaion mas 
+una actualizaion mas
 
-resolucion de problemas 
+resolucion de problemas
 
 print("Hello Woerd")
 
@@ -20,9 +21,6 @@ Agregando cambios desde vs code.
 rama main.
 
 //
-
-
-
 >>>>>>> 8673fe0aa60ae01b43d4d2b4fc81c392ee6ecfd6
 def isPrime(n):
     for i in range(2, n):
@@ -34,8 +32,7 @@ print(isPrime(2)) # True
 print(isPrime(7)) # True
 print(isPrime(60))
 
-
-//verifica si es primo 
+//verifica si es primo
 hola
 
 //verifica si es primo
@@ -44,5 +41,3 @@ nombre = input("cual es tu nombre)
 edad = int(input("cuantos años tienes"))
 
 print("Biencenido ", nombre "tu edad es ", edad )
-
-
