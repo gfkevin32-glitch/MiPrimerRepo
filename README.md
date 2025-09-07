@@ -45,3 +45,7 @@ print("Biencenido ", nombre "tu edad es ", edad )
 hola nuevo commit desde VS code.
 
 print("Hello world.")
+
+a = 3
+b = 2
+print(a + b)
